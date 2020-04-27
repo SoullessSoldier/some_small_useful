@@ -5,7 +5,7 @@ Hotch-potch tiny tasks
 ##Задача: Simple Pig latin
 Переместите первую букву каждого слова в конец, затем добавьте 'zy' в конец этого слова.
 Оставьте знаки препинания нетронутыми.
->>>pig_it('Hello world !')
+pig_it('Hello world !')
 'elloHzy orldwzy !'
->>> pig_it('Pig latin is cool')
+pig_it('Pig latin is cool')
 'igPzy atinlzy sizy oolczy'
